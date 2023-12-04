@@ -1,2 +1,2 @@
 # spacegame
-Phaser.js web game
+Phaser 3 web game
